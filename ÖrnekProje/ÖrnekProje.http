@@ -1,0 +1,6 @@
+@ÖrnekProje_HostAddress = http://localhost:5049
+
+GET {{ÖrnekProje_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
